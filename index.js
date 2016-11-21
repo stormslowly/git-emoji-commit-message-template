@@ -8,7 +8,7 @@ co(function*(){
     var gitEmojis = JSON.parse(res.text).gitmojis
 
     gitEmojis.forEach(function(gm){
-        console.log('#'+gm.emoji +'     '+gm.description)
+        console.log('#'+gm.emoji +'      #'+gm.description)
     })
 
 })
