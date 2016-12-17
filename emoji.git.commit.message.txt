@@ -60,3 +60,15 @@
 #Fixing typos.
 #💩 
 #Writing bad code that needs to be improved.
+#⏪ 
+#Reverting changes.
+#🔀 
+#Merging branches.
+#📦 
+#Updating compiled files or packages.
+#👽 
+#Updating code due to external API changes.
+#🚚 
+#Moving or renaming files.
+#📄 
+#Adding or updating license.
