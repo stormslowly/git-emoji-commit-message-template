@@ -1,62 +1,80 @@
 #🎨 
-#Improving structure / format of the code.
+#improving structure / format of the code.
 #⚡️ 
-#Improving performance.
+#improving performance.
 #🔥 
-#Removing code or files.
+#removing code or files.
 #🐛 
-#Fixing a bug.
+#fixing a bug.
 #🚑 
-#Critical hotfix.
+#critical hotfix.
 #✨ 
-#Introducing new features.
+#introducing new features.
 #📝 
-#Writing docs.
+#writing docs.
 #🚀 
-#Deploying stuff.
+#deploying stuff.
 #💄 
-#Updating the UI and style files.
+#updating the ui and style files.
 #🎉 
-#Initial commit.
+#initial commit.
 #✅ 
-#Adding tests.
+#adding tests.
 #🔒 
-#Fixing security issues.
+#fixing security issues.
 #🍎 
-#Fixing something on macOS.
+#fixing something on macos.
 #🐧 
-#Fixing something on Linux.
+#fixing something on linux.
 #🏁 
-#Fixing something on Windows.
+#fixing something on windows.
 #🔖 
-#Releasing / Version tags.
+#releasing / version tags.
 #🚨 
-#Removing linter warnings.
+#removing linter warnings.
 #🚧 
-#Work in progress.
+#work in progress.
 #💚 
-#Fixing CI Build.
+#fixing ci build.
 #⬇️ 
-#Downgrading dependencies.
+#downgrading dependencies.
 #⬆️ 
-#Upgrading dependencies.
+#upgrading dependencies.
 #👷 
-#Adding CI build system.
+#adding ci build system.
 #📈 
-#Adding analytics or tracking code.
+#adding analytics or tracking code.
 #🔨 
-#Heavy refactoring.
+#refactoring code.
 #➖ 
-#Removing a dependency.
+#removing a dependency.
 #🐳 
-#Work about Docker.
+#work about docker.
 #➕ 
-#Adding a dependency.
+#adding a dependency.
 #🔧 
-#Changing configuration files.
+#changing configuration files.
 #🌐 
-#Internationalization and localization.
+#internationalization and localization.
 #✏️ 
-#Fixing typos.
+#fixing typos.
 #💩 
-#Writing bad code that needs to be improved.
+#writing bad code that needs to be improved.
+#⏪ 
+#reverting changes.
+#🔀 
+#merging branches.
+#📦 
+#updating compiled files or packages.
+#👽 
+#updating code due to external api changes.
+#🚚 
+#moving or renaming files.
+#📄 
+#adding or updating license.
+#💥 
+#introducing breaking changes.
+#🍱 
+#adding or updating assets.
+#👌 
+#updating code due to code review changes.
