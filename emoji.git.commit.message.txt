@@ -59,7 +59,6 @@
 #✏️ 
 #fixing typos.
 #💩 
-<<<<<<< HEAD
 #writing bad code that needs to be improved.
 #⏪ 
 #reverting changes.
@@ -79,18 +78,7 @@
 #adding or updating assets.
 #👌 
 #updating code due to code review changes.
-=======
-#Writing bad code that needs to be improved.
-#⏪ 
-#Reverting changes.
-#🔀 
-#Merging branches.
-#📦 
-#Updating compiled files or packages.
-#👽 
-#Updating code due to external API changes.
-#🚚 
-#Moving or renaming files.
-#📄 
-#Adding or updating license.
->>>>>>> e6edbdd4094944ceacf4c788bd99fa726f65bbea
+#♿️ 
+#improving accessibility.
+#💡 
+#documenting source code.
