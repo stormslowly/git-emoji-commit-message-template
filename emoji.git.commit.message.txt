@@ -28,6 +28,10 @@
 #fixing something on linux.
 #🏁 
 #fixing something on windows.
+#🤖 
+#fixing something on android.
+#🍏 
+#fixing something on ios.
 #🔖 
 #releasing / version tags.
 #🚨 
@@ -82,3 +86,17 @@
 #improving accessibility.
 #💡 
 #documenting source code.
+#🍻 
+#writing code drunkenly.
+#💬 
+#updating text and literals.
+#🗃 
+#performing database related changes.
+#🔊 
+#adding logs.
+#🔇 
+#removing logs.
+#👥 
+#add contributor(s).
+#🚸 
+#improving user experience / usability.
