@@ -44,11 +44,13 @@
 #downgrading dependencies.
 #⬆️ 
 #upgrading dependencies.
+#📌 
+#pinning dependencies to specific versions.
 #👷 
 #adding ci build system.
 #📈 
 #adding analytics or tracking code.
-#🔨 
+#♻️ 
 #refactoring code.
 #➖ 
 #removing a dependency.
@@ -97,6 +99,12 @@
 #🔇 
 #removing logs.
 #👥 
-#add contributor(s).
+#adding contributor(s).
 #🚸 
 #improving user experience / usability.
+#🏗 
+#making architectural changes.
+#📱 
+#working on responsive design.
+#🤡 
+#mocking things.
