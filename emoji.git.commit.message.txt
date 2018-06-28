@@ -108,3 +108,9 @@
 #working on responsive design.
 #🤡 
 #mocking things.
+#🥚 
+#adding an easter egg.
+#🙈 
+#adding or updating a .gitignore file
+#📸 
+#adding or updating snapshots
