@@ -52,12 +52,12 @@
 #adding analytics or tracking code.
 #♻️ 
 #refactoring code.
-#➖ 
-#removing a dependency.
 #🐳 
 #work about docker.
 #➕ 
 #adding a dependency.
+#➖ 
+#removing a dependency.
 #🔧 
 #changing configuration files.
 #🌐 
@@ -114,3 +114,11 @@
 #adding or updating a .gitignore file
 #📸 
 #adding or updating snapshots
+#⚗ 
+#experimenting new things
+#🔍 
+#improving seo
+#☸️ 
+#work about kubernetes
+#🏷️ 
+#adding or updating types (flow, typescript)
