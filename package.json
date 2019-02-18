@@ -11,6 +11,6 @@
   "license": "MIT",
   "dependencies": {
     "co": "^4.6.0",
-    "superagent": "^2.3.0"
+    "superagent": "^4"
   }
 }
