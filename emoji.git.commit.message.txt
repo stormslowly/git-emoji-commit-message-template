@@ -122,3 +122,13 @@
 #work about kubernetes
 #🏷️ 
 #adding or updating types (flow, typescript)
+#🌱 
+#adding or updating seed files
+#🚩 
+#adding, updating, or removing feature flags
+#🥅 
+#catching errors
+#💫 
+#adding or updating animations and transitions
+#🗑 
+#deprecating code that needs to be cleaned up.
